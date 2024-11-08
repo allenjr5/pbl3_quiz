@@ -18,14 +18,17 @@ ranking_modo3 = {
 #Função onde ocorre o modo 1 do quiz
 def modo1_quiz():
     pontos = 0
+    ajudas = 0
 
 #Função onde ocorre o modo 2 do quiz
 def modo2_quiz():
     pontos = 0
+    ajudas = 0
 
 #Função onde ocorre o modo 3 do quiz
 def modo3_quiz():
     pontos = 0
+    ajudas = 0
 
 #Função que mostra o ranking de acrodo com o modo do quiz
 def mostra_ranking(modo):
